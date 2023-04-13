@@ -17,6 +17,5 @@
 - [x] handling form submission
 - [x] flash messages and redirects
 - [x] customizing form rendering
-- [ ] form themes
-- [ ] edit form
+- [x] edit form
 - [ ] form classes
