@@ -14,8 +14,8 @@
 ### Forms
 
 - [x] symfony forms
-- [ ] handling form submission
-- [ ] flash messages and redirects
+- [x] handling form submission
+- [x] flash messages and redirects
 - [ ] customizing form rendering
 - [ ] form themes
 - [ ] edit form
