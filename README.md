@@ -18,4 +18,4 @@
 - [x] flash messages and redirects
 - [x] customizing form rendering
 - [x] edit form
-- [ ] form classes
+- [x] form classes
