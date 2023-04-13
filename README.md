@@ -11,3 +11,12 @@
 - [Symfony Maker Bundle](https://symfony.com/bundles/SymfonyMakerBundle/current/index.html)
 - [Symfony Profiler](https://symfony.com/doc/current/profiler.html)
 
+### Forms
+
+- [x] symfony forms
+- [ ] handling form submission
+- [ ] flash messages and redirects
+- [ ] customizing form rendering
+- [ ] form themes
+- [ ] edit form
+- [ ] form classes
