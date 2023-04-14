@@ -27,4 +27,4 @@
 - [x] styling forms
 - [x] adding breadcrumbs (navigation)
 - [x] custom form theme (our own)
-- [ ] form validation
+- [x] form validation
