@@ -25,6 +25,6 @@
 - [x] using Tailwind CCS
 - [x] styling the post list
 - [x] styling forms
-- [ ] adding breadcrumbs (navigation)
+- [x] adding breadcrumbs (navigation)
 - [ ] custom form theme (our own)
 - [ ] form validation
