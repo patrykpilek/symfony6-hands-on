@@ -26,5 +26,5 @@
 - [x] styling the post list
 - [x] styling forms
 - [x] adding breadcrumbs (navigation)
-- [ ] custom form theme (our own)
+- [x] custom form theme (our own)
 - [ ] form validation
