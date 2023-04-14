@@ -19,3 +19,12 @@
 - [x] customizing form rendering
 - [x] edit form
 - [x] form classes
+
+### Forms
+
+- [x] using Tailwind CCS
+- [x] styling the post list
+- [x] styling forms
+- [x] adding breadcrumbs (navigation)
+- [x] custom form theme (our own)
+- [x] form validation
