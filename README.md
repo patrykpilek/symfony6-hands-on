@@ -23,7 +23,7 @@
 ### Forms
 
 - [x] using Tailwind CCS
-- [ ] styling the post list
+- [x] styling the post list
 - [ ] styling forms
 - [ ] adding breadcrumbs (navigation)
 - [ ] custom form theme (our own)
