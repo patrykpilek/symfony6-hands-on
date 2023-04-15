@@ -40,5 +40,5 @@
 ### Comments Feature - Working with One to Many
 
 - [x] adding comments 
-- [ ] solving N+1 problem
+- [x] solving N+1 problem
 - [ ] displaying comments
