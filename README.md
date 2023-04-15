@@ -35,4 +35,4 @@
 - [x] working with one to one relation
 - [x] one to many relation
 - [x] working with one to many relation
-- [ ] many to many relation
+- [x] many to many relation
