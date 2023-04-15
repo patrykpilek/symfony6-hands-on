@@ -28,3 +28,11 @@
 - [x] adding breadcrumbs (navigation)
 - [x] custom form theme (our own)
 - [x] form validation
+
+### Database Relations in Doctrine
+
+- [x] one to one relation explained
+- [x] working with one to one relation
+- [x] one to many relation
+- [x] working with one to many relation
+- [x] many to many relation
