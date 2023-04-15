@@ -41,4 +41,4 @@
 
 - [x] adding comments 
 - [x] solving N+1 problem
-- [ ] displaying comments
+- [x] displaying comments
