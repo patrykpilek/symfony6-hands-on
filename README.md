@@ -33,6 +33,6 @@
 
 - [x] one to one relation explained
 - [x] working with one to one relation
-- [ ] one to many relation
+- [x] one to many relation
 - [ ] working with one to many relation
 - [ ] many to many relation

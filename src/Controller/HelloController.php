@@ -28,8 +28,8 @@ class HelloController extends AbstractController
 //         $profile->setUser($user);
 //         $profiles->save($profile, true);
 
-         $profile = $profiles->find(1);
-         $profiles->remove($profile, true);
+//         $profile = $profiles->find(1);
+//         $profiles->remove($profile, true);
 
         return $this->render(
             'hello/index.html.twig',
