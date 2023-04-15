@@ -36,3 +36,9 @@
 - [x] one to many relation
 - [x] working with one to many relation
 - [x] many to many relation
+
+### Comments Feature - Working with One to Many
+
+- [x] adding comments 
+- [ ] solving N+1 problem
+- [ ] displaying comments
