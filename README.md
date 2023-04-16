@@ -42,3 +42,16 @@
 - [x] adding comments 
 - [x] solving N+1 problem
 - [x] displaying comments
+
+### Authentication & Authorization
+
+- [x] hashing passwords and creating users in fixtures
+- [ ] custom console command creating users
+- [ ] authenticating using forms
+- [ ] logging uses out
+- [ ] relate posts and comments to user
+- [ ] the unrun migration problem
+- [ ] getting the current user
+- [ ] user roles explained (in-depth)
+- [ ] logout button and missing features
+- [ ] voters (in-depth)
