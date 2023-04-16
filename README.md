@@ -49,7 +49,7 @@
 - [x] custom console command creating users
 - [x] authenticating using forms
 - [x] logging uses out
-- [ ] relate posts and comments to user
+- [x] relate posts and comments to user
 - [ ] the unrun migration problem
 - [ ] getting the current user
 - [ ] user roles explained (in-depth)
