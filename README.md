@@ -53,5 +53,5 @@
 - [x] the unrun migration problem
 - [x] getting the current user
 - [x] user roles explained (in-depth)
-- [ ] logout button and missing features
+- [x] logout button and missing features
 - [ ] voters (in-depth)
