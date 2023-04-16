@@ -50,7 +50,7 @@
 - [x] authenticating using forms
 - [x] logging uses out
 - [x] relate posts and comments to user
-- [ ] the unrun migration problem
+- [x] the unrun migration problem
 - [ ] getting the current user
 - [ ] user roles explained (in-depth)
 - [ ] logout button and missing features
