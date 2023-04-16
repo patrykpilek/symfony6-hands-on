@@ -46,7 +46,7 @@
 ### Authentication & Authorization
 
 - [x] hashing passwords and creating users in fixtures
-- [ ] custom console command creating users
+- [x] custom console command creating users
 - [ ] authenticating using forms
 - [ ] logging uses out
 - [ ] relate posts and comments to user
