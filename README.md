@@ -47,7 +47,7 @@
 
 - [x] hashing passwords and creating users in fixtures
 - [x] custom console command creating users
-- [ ] authenticating using forms
+- [x] authenticating using forms
 - [ ] logging uses out
 - [ ] relate posts and comments to user
 - [ ] the unrun migration problem
