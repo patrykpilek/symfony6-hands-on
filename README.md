@@ -52,6 +52,6 @@
 - [x] relate posts and comments to user
 - [x] the unrun migration problem
 - [x] getting the current user
-- [ ] user roles explained (in-depth)
+- [x] user roles explained (in-depth)
 - [ ] logout button and missing features
 - [ ] voters (in-depth)
