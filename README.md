@@ -60,6 +60,6 @@
 
 - [x] setting up registration controller and mail catcher
 - [x] registration form template
-- [ ] testing registration and repeating password
+- [x] testing registration and repeating password
 - [ ] non verified users can't post
 - [ ] user checkers and banning users functionality
