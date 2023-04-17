@@ -59,7 +59,7 @@
 ### User Registration & Verification
 
 - [x] setting up registration controller and mail catcher
-- [ ] registration form template
+- [x] registration form template
 - [ ] testing registration and repeating password
 - [ ] non verified users can't post
 - [ ] user checkers and banning users functionality
