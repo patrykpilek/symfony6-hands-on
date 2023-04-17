@@ -55,3 +55,11 @@
 - [x] user roles explained (in-depth)
 - [x] logout button and missing features
 - [x] voters (in-depth)
+
+### User Registration & Verification
+
+- [x] setting up registration controller and mail catcher
+- [ ] registration form template
+- [ ] testing registration and repeating password
+- [ ] non verified users can't post
+- [ ] user checkers and banning users functionality
