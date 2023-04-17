@@ -62,4 +62,4 @@
 - [x] registration form template
 - [x] testing registration and repeating password
 - [x] non verified users can't post
-- [ ] user checkers and banning users functionality
+- [x] user checkers and banning users functionality
