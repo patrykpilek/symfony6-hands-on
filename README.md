@@ -63,3 +63,15 @@
 - [x] testing registration and repeating password
 - [x] non verified users can't post
 - [x] user checkers and banning users functionality
+
+### User Profile, Likes, Following Features
+
+- [x] user profile form 
+- [ ] embedding forms
+- [ ] user profile page
+- [ ] likes functionality
+- [ ] use following feature data model
+- [ ] user following feature functionality
+- [ ] using twig embeds to create tab navigation
+- [ ] profile page tab navigation
+- [ ] list of use followers
