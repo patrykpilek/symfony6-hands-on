@@ -67,7 +67,7 @@
 ### User Profile, Likes, Following Features
 
 - [x] user profile form 
-- [ ] embedding forms
+- [x] embedding forms
 - [ ] user profile page
 - [ ] likes functionality
 - [ ] use following feature data model

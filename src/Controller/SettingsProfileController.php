@@ -26,9 +26,16 @@ class SettingsProfileController extends AbstractController
 
         if ($form->isSubmitted() && $form->isValid()) {
             $userProfile = $form->getData();
-            // save this somehow
-            // add the flash message
-            // redirect
+            $user->setUserProfile($userProfile);
+            $users->save($user, true);
+            $this->addFlash(
+                'success',
+                'Your user profile settings were saved.'
+            );
+
+            return $this->redirectToRoute(
+                'app_settings_profile'
+            );
         }
 
         return $this->render(
