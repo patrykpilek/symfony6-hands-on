@@ -70,7 +70,7 @@
 - [x] embedding forms
 - [x] user profile page
 - [x] likes functionality
-- [ ] use following feature data model
+- [x] use following feature data model
 - [ ] user following feature functionality
 - [ ] using twig embeds to create tab navigation
 - [ ] profile page tab navigation
