@@ -73,5 +73,5 @@
 - [x] use following feature data model
 - [x] user following feature functionality
 - [x] using twig embeds to create tab navigation
-- [ ] profile page tab navigation
+- [x] profile page tab navigation
 - [ ] list of use followers
