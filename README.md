@@ -72,6 +72,6 @@
 - [x] likes functionality
 - [x] use following feature data model
 - [x] user following feature functionality
-- [ ] using twig embeds to create tab navigation
+- [x] using twig embeds to create tab navigation
 - [ ] profile page tab navigation
 - [ ] list of use followers
