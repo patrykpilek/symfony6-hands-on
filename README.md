@@ -81,5 +81,5 @@
 - [x] making reusable queries
 - [x] user posts - optimizing query
 - [x] post list - tab navigation
-- [ ] top liked posts - using group by and having
+- [x] top liked posts - using group by and having
 - [ ] getting posts of people you follow (query example)
