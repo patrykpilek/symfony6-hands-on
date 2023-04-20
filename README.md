@@ -82,4 +82,4 @@
 - [x] user posts - optimizing query
 - [x] post list - tab navigation
 - [x] top liked posts - using group by and having
-- [ ] getting posts of people you follow (query example)
+- [x] getting posts of people you follow (query example)
