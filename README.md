@@ -75,3 +75,11 @@
 - [x] using twig embeds to create tab navigation
 - [x] profile page tab navigation
 - [x] list of use followers
+
+### More features and Complex Database Queries
+
+- [x] making reusable queries
+- [x] user posts - optimizing query
+- [x] post list - tab navigation
+- [x] top liked posts - using group by and having
+- [x] getting posts of people you follow (query example)
