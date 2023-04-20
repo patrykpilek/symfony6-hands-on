@@ -80,6 +80,6 @@
 
 - [x] making reusable queries
 - [x] user posts - optimizing query
-- [ ] post list - tab navigation
+- [x] post list - tab navigation
 - [ ] top liked posts - using group by and having
 - [ ] getting posts of people you follow (query example)
