@@ -88,7 +88,7 @@
 
 - [x] image uploading controller 
 - [x] file upload form template
-- [ ] image upload logic
+- [x] image upload logic
 - [ ] image avatar component
 - [ ] using user avatar everywhere
 - [ ] extra privacy feature (voter example)
