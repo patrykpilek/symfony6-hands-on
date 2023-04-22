@@ -92,4 +92,4 @@
 - [x] image upload logic
 - [x] image avatar component
 - [x] using user avatar everywhere
-- [ ] extra privacy feature (voter example)
+- [x] extra privacy feature (voter example)
