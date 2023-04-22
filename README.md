@@ -91,5 +91,5 @@
 - [x] file upload form template
 - [x] image upload logic
 - [x] image avatar component
-- [ ] using user avatar everywhere
+- [x] using user avatar everywhere
 - [ ] extra privacy feature (voter example)
