@@ -86,7 +86,8 @@
 
 ### File Uploads
 
-- [x] image uploading controller 
+- [x] image uploading controller
+- [x] file upload form
 - [x] file upload form template
 - [x] image upload logic
 - [x] image avatar component
