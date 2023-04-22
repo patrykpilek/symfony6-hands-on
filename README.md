@@ -83,3 +83,13 @@
 - [x] post list - tab navigation
 - [x] top liked posts - using group by and having
 - [x] getting posts of people you follow (query example)
+
+### File Uploads
+
+- [x] image uploading controller
+- [x] file upload form
+- [x] file upload form template
+- [x] image upload logic
+- [x] image avatar component
+- [x] using user avatar everywhere
+- [x] extra privacy feature (voter example)
